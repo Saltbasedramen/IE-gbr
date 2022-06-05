@@ -1,0 +1,140 @@
+Marine Animal ID,Marine Animal Name,Size limit min (cm),Size limit max (cm),Weight limit (g),Combined possession limit,Special limits,Population ID,Species Name
+1,Cods and groupers (All),38,,,5,,1,Coral reef fin fish
+2,Barramundi cod,,,,No take,,1,Coral reef fin fish
+3,Camouflage grouper,50,70,,5,,1,Coral reef fin fish
+4,Flowery rockcod,50,70,,5,,1,Coral reef fin fish
+5,Greasy rockcod,38,100,,5,,1,Coral reef fin fish
+6,Maori rockcod,45,,,5,,1,Coral reef fin fish
+7,Potato rockcod,,,,No take,,1,Coral reef fin fish
+8,Queensland groper,,,,No take,,1,Coral reef fin fish
+9,Coral trout (All),38,,,7,,2,Coral reef fin fish
+10,Blue spotted coral trout (Chinese footballer),50,80,,7,,2,Coral reef fin fish
+11,Emperors (All),25,,,5,,2,Coral reef fin fish
+12,Redthroat emperor (sweetlip emperor),38,,,8,,3,Coral reef fin fish
+13,Long nose emperor,38,,,5,,3,Coral reef fin fish
+14,Spangled emperor,45,,,5,,3,Coral reef fin fish
+15,Fusiliers (All),,,,20,,4,Coral reef fin fish
+16,Parrotfishes (All),25,,,5,,5,Coral reef fin fish
+17,Surgeonfishes (All),25,,,5,,6,Coral reef fin fish
+18,Sweetlips (All),25,,,5,,7,Coral reef fin fish
+19,Tropical snappers and sea perches (All),25,,,5,,8,Coral reef fin fish
+20,Chinaman fish,,,,No take,,8,Coral reef fin fish
+21,Crimson snapper (small mouth nannygai),40,,,9,,8,Coral reef fin fish
+22,Saddletail snapper (large mouth nannygai),40,,,9,,8,Coral reef fin fish
+23,Flame snapper,38,,,5,,8,Coral reef fin fish
+24,Goldband snapper ,38,,,5,,8,Coral reef fin fish
+25,Sharptooth snapper,38,,,5,,8,Coral reef fin fish
+26,Green jobfish,38,,,5,,8,Coral reef fin fish
+27,Hussar,25,,,10,,8,Coral reef fin fish
+28,Rosy snapper (jobfish),38,,,8,,8,Coral reef fin fish
+29,Lavendar snapper (jobfish),38,,,8,,8,Coral reef fin fish
+30,Paddletail,,,,No take,,8,Coral reef fin fish
+31,Red bass,,,,No take,,8,Coral reef fin fish
+32,Red emperor,55,,,5,,8,Coral reef fin fish
+33,Ruby snapper,38,,,5,,8,Coral reef fin fish
+34,Smalltooth jobfish,38,,,5,,8,Coral reef fin fish
+35,Miscellaneous jobfish,38,,,5,,8,Coral reef fin fish
+36,Wrasse (All),30,,,5,,9,Coral reef fin fish
+37,Humphead Maori,,,,No take,,9,Coral reef fin fish
+38,Tuskfish,30,,,6,,9,Coral reef fin fish
+39,Australian bass (All),30,,,2,,9,Australian bass
+40,Barramundi,58,120,,5 per person / 10 per boat,,10,Barramundi
+41,Pikey,25,,,30,,11,Other Species
+42,Tarwhine,25,,,30,,11,Other Species
+43,Yellowfin,25,,,30,,11,Other Species
+44,Moreton Bay (bay lobster),7.5,,,20,,12,Other Species
+45,Smooth (Balmain),10.5,,,20,,12,Other Species
+46,Cobia (black kingfish),75,,,2,,13,Other Species
+47,Cod (estuary),38,120,,5,,14,Other Species
+48,Blue swimmer,11.5,,,20,,15,Other Species
+49,Mud,15,,,7 per person / 14 per boat,,15,Other Species
+50,Spanner,10,,,20,,15,Other Species
+51,Three-spot,10,,,20,,15,Other Species
+52,Longfin,30,,,10,,16,Other Species
+53,Pacific shortfin (south Pacific),30,,,10,,16,Other Species
+54,Southern shortfin,30,,,10,,16,Other Species
+55,Flathead (All),30,,,5,,17,Other Species
+56,Dusky (mud flathead),40,75,,5,,17,Other Species
+57,Garfish (All),,,,50,,18,Other Species
+58,Green snail (All),,,280,20,,19,Other Species
+59,Golden snapper (fingermark) (All),35,,,5,,20,Other Species
+60,Grass emperor (sweetlip) (All),30,,,10,,21,Other Species
+61,Barred (spotted grunter)(East coast),40,,,10,,22,Other Species
+62,Barred (spotted grunter)(Gulf of Carpentaria),40,,,10 whole fish or 20 fillets,26cm min (fillet length),22,Other Species
+63,Silver (small spotted grunter),30,,,10,,22,Other Species
+64,Black (East coast),75,,,1 per person / 2 per boat,Fish must be kept whole while on a boat.,23,Other Species
+65,Black (Gulf of Carpentaria),60,,,1 per person / 2 per boat,Fish must be kept whole while on a boat.,23,Other Species
+66,Scaly (jewel fish),45,,,20,Fish must be kept whole while on a boat.,23,Other Species
+67,Luderick (All),30,,,10,,24,Other Species
+68,Grey,60,,,5,,25,Other Species
+69,Spanish,75,,,3 per person / 6 per boat,,25,Other Species
+70,School,50,,,10,,25,Other Species
+71,Shark,50,,,10,,25,Other Species
+72,Spotted,60,,,5,,25,Other Species
+73,Mahi mahi (dolphin fish) (All),50,,,5,,26,Other Species
+74,Mangrove jack (All),35,,,5,,27,Other Species
+75,Diamondscale,30,,,20,,28,Other Species
+76,Sea,30,,,20,,28,Other Species
+77,"Mullet exceptions (all other mullet except diamondscale, sea and freshwater)",,,,50,,28,Other Species
+78,Bivalve molluscs and gastropods (All),,,,30,Combined possession limit of 30 except in Moreton Bay where bivalve molluscs and gastropods (excluding pipi) are no take,29,Other Species
+79,Clams (family?Tridacnidae),,,,No take,,29,Other Species
+80,Helmet shells,,,,No take,,29,Other Species
+81,Trumpet shells,,,,No take,,29,Other Species
+82,Oysters (All),,,,20,,30,Other Species
+83,Blacklip pearl oyster,9,,,20,,30,Other Species
+84,Goldlip pearl oyster,13,23,,20,,30,Other Species
+85,Mulloway (All),75,,,2,Fish must be kept whole while on a boat.,31,Other Species
+86,Pearl perch (All),38,,,4,,32,Other Species
+87,Prawns (All),,,,10 litres per person / 20 litres per boat,,33,Other Species
+88,Rays (All),,150,,1,Rays with a round body shape only need to comply with the 1.5m maximum size limit,34,Other Species
+89,Guitarfish,,150,,1,,34,Other Species
+90,Manta ray,,,,No take,,34,Other Species
+91,Shovelnose ray,,150,,1,,34,Other Species
+92,Sawfish (All),,,,No take,,35,Other Species
+93,Sea cucumber (All),,,,5 per person / 10 per boat,waters north of latitude 20¡ã south (near Bowen) and waters east of longitude 142¡ã31¡¯49¡¯¡¯ East,36,Other Species
+94,Black teatfish,,,,No take,,36,Other Species
+95,White teatfish,,,,No take,,36,Other Species
+96,Sharks (All),,150,,1 per person / 2 per boat,,37,Other Species
+97,Grey reef shark,,150,,1,,37,Other Species
+98,Whitetip reef shark,,150,,1,,37,Other Species
+99,White shark,,,,No take,,37,Other Species
+100,Sand tiger shark,,,,No take,,37,Other Species
+101,Speartooth shark,,,,No take,,37,Other Species
+102,Hammerhead sharks,,,,No take,,37,Other Species
+103,Snapper (All),35,,,,4 per person with no more than 1 over 70cm / 8 per boat with no more than 2 over 70cm (with 2 or more people on board),38,Snapper
+104,Tailor (All),35,,,20,,39,Other Species
+105,Teraglin (All),38,,,5,,40,Other Species
+106,King (East coast),65,,,5,,41,Other Species
+107,King (Gulf of Carpentaria),60,,,5,,41,Other Species
+108,Blue (East coast),40,,,10,,41,Other Species
+109,Blue (Gulf of Carpentaria),40,,,20,,41,Other Species
+110,Trevally (All),,,,20,,42,Other Species
+111,Amberjack,50,,,2,,42,Other Species
+112,Samsonfish,50,,,2,,42,Other Species
+113,Swallowtail dart,30,,,30,,42,Other Species
+114,Giant queenfish,50,,,5,,42,Other Species
+115,Yellowtail kingfish,60,,,2,,42,Other Species
+116,Trochus (All),8,12.5,,30,,43,Other Species
+117,Tropical rock lobster (All),,,,5 per person / 10 per boat in total of all species,,44,Other Species
+118,Painted crayfish,,,,5 per person / 10 per boat in total of all species,"11.5cm tail min, 9cm carapace min",44,Tropical rock lobster
+119,Red Champagne Lobster,7.5,,,5 per person / 10 per boat in total of all species,,44,Other Species
+120,Wahoo (All),75,,,2,,45,Other Species
+121,Sand (summer),23,,,30,,46,Other Species
+122,Goldenline?,,,,50,,46,Other Species
+123,Northern,,,,10,,46,Other Species
+124,Trumpeter (winter),,,,30,,46,Other Species
+125,Dorab?Wolf herring (All),,,,50,,47,Other Species
+126,Beach worm,,,,,,48,Other Species
+127,Cribb Island worms,,,,,,48,Other Species
+128,Southern herring,,,,,,49,Other Species
+129,Common hardyhead,,,,,,49,Other Species
+130,Australian sardine,,,,,,49,Other Species
+131,Australian anchovy,,,,,,49,Other Species
+132,Silver biddy,,,,,,49,Other Species
+133,Saltwater yabby,,,,,,49,Other Species
+134,Soldier crab,,,,,,49,Other Species
+135,Non-regulated worms,,,,,,49,Other Species
+136,"Mullet?? (excluding diamondscale,??sea and freshwater)",,,,50,,49,Other Species
+137,Cuttlefish or squid??(excluding tiger squid),,,,50,,49,Other Species
+138,Smooth-clawed rock crab,,,,,,49,Other Species
+139,Yellowtail pike,,,,50,,49,Other Species

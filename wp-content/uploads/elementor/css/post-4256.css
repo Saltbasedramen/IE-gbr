@@ -1,0 +1,39 @@
+/* Start custom CSS for text-editor, class: .elementor-element-275fb7ae */.custom-icon {
+	height: 26px;
+	width: 26px;
+	
+	background:
+	url("https://thumbs.dreamstime.com/b/aquatic-coral-line-icon-vector-illustration-isolated-sign-contour-symbol-black-193504662.jpg") no-repeat center center / cover;
+	
+	border-radius: 12px;
+}
+
+.custom-icon1 {
+	height: 26px;
+	width: 26px;
+	
+	background:
+	url("https://cdn.vectorstock.com/i/thumb-large/59/24/forward-icon-forwarded-email-arrow-curved-right-vector-24365924.webp") no-repeat center center / cover;
+	
+	border-radius: 12px;
+}
+
+.custom-icon2 {
+	height: 26px;
+	width: 26px;
+	
+	background:
+	url("https://cdn.vectorstock.com/i/thumb-large/39/17/curved-back-arrow-left-pointer-icon-curve-cursor-vector-24613917.webp") no-repeat center center / cover;
+	
+	border-radius: 12px;
+}
+
+.custom-icon3 {
+	height: 26px;
+	width: 26px;
+	
+	background:
+	url("https://cdn.pixabay.com/photo/2013/04/01/21/32/reading-99244_960_720.png") no-repeat center center / cover;
+	
+	border-radius: 12px;
+}/* End custom CSS */

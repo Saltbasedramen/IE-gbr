@@ -1,0 +1,1339 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Voltee",
+    "page_builder": "elementor",
+    "kit_version": "1.0.1",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/kitpro.site",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/kitpro.site\/voltee\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/kitpro.site\/voltee\/template-kit\/about-us-2\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "service",
+            "screenshot": "screenshots\/service.jpg",
+            "source": "templates\/service.json",
+            "preview_url": "https:\/\/kitpro.site\/voltee\/template-kit\/service\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/kitpro.site\/voltee\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Gallery",
+            "screenshot": "screenshots\/gallery.jpg",
+            "source": "templates\/gallery.json",
+            "preview_url": "https:\/\/kitpro.site\/voltee\/template-kit\/gallery\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Donation",
+            "screenshot": "screenshots\/donation.jpg",
+            "source": "templates\/donation.json",
+            "preview_url": "https:\/\/kitpro.site\/voltee\/template-kit\/donation\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Member",
+            "screenshot": "screenshots\/member.jpg",
+            "source": "templates\/member.json",
+            "preview_url": "https:\/\/kitpro.site\/voltee\/template-kit\/member\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Faqs",
+            "screenshot": "screenshots\/faqs.jpg",
+            "source": "templates\/faqs.json",
+            "preview_url": "https:\/\/kitpro.site\/voltee\/template-kit\/faqs\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/kitpro.site\/voltee\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single-Blog",
+            "screenshot": "screenshots\/single-blog.jpg",
+            "source": "templates\/single-blog.json",
+            "preview_url": "https:\/\/kitpro.site\/voltee\/template-kit\/single-blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404",
+            "screenshot": "screenshots\/404.jpg",
+            "source": "templates\/404.json",
+            "preview_url": "https:\/\/kitpro.site\/voltee\/template-kit\/404\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/kitpro.site\/voltee\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/kitpro.site\/voltee\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "NewsletterBlog-Metform",
+            "screenshot": "screenshots\/newsletterblog-metform.jpg",
+            "source": "templates\/newsletterblog-metform.json",
+            "preview_url": "https:\/\/kitpro.site\/voltee\/template-kit\/newsletterblog-metform\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Newsletter-Metform",
+            "screenshot": "screenshots\/newsletter-metform.jpg",
+            "source": "templates\/newsletter-metform.json",
+            "preview_url": "https:\/\/kitpro.site\/voltee\/template-kit\/newsletter-metform\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact-Metform",
+            "screenshot": "screenshots\/contact-metform.jpg",
+            "source": "templates\/contact-metform.json",
+            "preview_url": "https:\/\/kitpro.site\/voltee\/template-kit\/contact-metform\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.4.0",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor Header & Footer Builder",
+            "version": "1.6.5",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        },
+        {
+            "name": "MetForm",
+            "version": "1.5.6",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.4.8",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "group-of-volunteer-having-fun-2021-08-28-17-17-39-utc.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/voltee\/wp-content\/uploads\/sites\/54\/2021\/11\/group-of-volunteer-having-fun-2021-08-28-17-17-39-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "service"
+                }
+            ],
+            "filesize": 243328,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/group-of-volunteer-having-fun-6Z995EB"
+        },
+        {
+            "filename": "t033-09.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/voltee\/wp-content\/uploads\/sites\/54\/2021\/11\/t033-09-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "service"
+                },
+                {
+                    "source": "templates\/donation.json",
+                    "name": "Donation"
+                }
+            ],
+            "filesize": 153549,
+            "dimensions": [
+                1200,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/volunteers-collect-garbage-vector-illustration-XZHZBB"
+        },
+        {
+            "filename": "Untitled-1.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/voltee\/wp-content\/uploads\/sites\/54\/2021\/11\/Untitled-1-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "service"
+                },
+                {
+                    "source": "templates\/donation.json",
+                    "name": "Donation"
+                }
+            ],
+            "filesize": 137916,
+            "dimensions": [
+                1200,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/volunteers-help-children-seniors-illustration-SXVWBE"
+        },
+        {
+            "filename": "m0059_05.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/voltee\/wp-content\/uploads\/sites\/54\/2021\/11\/m0059_05-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "service"
+                },
+                {
+                    "source": "templates\/donation.json",
+                    "name": "Donation"
+                }
+            ],
+            "filesize": 117229,
+            "dimensions": [
+                1200,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/volunteer-helping-senior-woman-illustration-ZMGUR8Q"
+        },
+        {
+            "filename": "222.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/voltee\/wp-content\/uploads\/sites\/54\/2021\/11\/222-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "service"
+                },
+                {
+                    "source": "templates\/donation.json",
+                    "name": "Donation"
+                }
+            ],
+            "filesize": 161425,
+            "dimensions": [
+                1200,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/happy-eco-volunteers-vector-illustration-R5GEPA"
+        },
+        {
+            "filename": "panorama-of-himalayas-mountains-2021-09-03-07-47-30-utc.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/voltee\/wp-content\/uploads\/sites\/54\/2021\/11\/panorama-of-himalayas-mountains-2021-09-03-07-47-30-utc-800x313.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 225250,
+            "dimensions": [
+                1920,
+                751
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/panorama-of-himalayas-mountains-Q9MXSHZ"
+        },
+        {
+            "filename": "volunteers-showing-support-and-unity-2021-08-27-10-37-24-utc.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/voltee\/wp-content\/uploads\/sites\/54\/2021\/11\/volunteers-showing-support-and-unity-2021-08-27-10-37-24-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 203066,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/volunteers-showing-support-and-unity-SE9ND4P"
+        },
+        {
+            "filename": "plant-handfix.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/voltee\/wp-content\/uploads\/sites\/54\/2021\/11\/plant-handfix.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 15918,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/20-earth-day-icons-UG2KZZH"
+        },
+        {
+            "filename": "recycle.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/voltee\/wp-content\/uploads\/sites\/54\/2021\/11\/recycle.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 19969,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/20-earth-day-icons-UG2KZZH"
+        },
+        {
+            "filename": "world-in-handsfix.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/voltee\/wp-content\/uploads\/sites\/54\/2021\/11\/world-in-handsfix.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 18715,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/20-earth-day-icons-UG2KZZH"
+        },
+        {
+            "filename": "beach-of-fjord-in-norway-2021-08-26-22-59-21-utc.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/voltee\/wp-content\/uploads\/sites\/54\/2021\/11\/beach-of-fjord-in-norway-2021-08-26-22-59-21-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "service"
+                }
+            ],
+            "filesize": 240501,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/beach-of-fjord-in-norway-ANVEDN3"
+        },
+        {
+            "filename": "volunteers-collecting-rubbish-and-recycling-2021-08-28-16-49-36-utc.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/voltee\/wp-content\/uploads\/sites\/54\/2021\/11\/volunteers-collecting-rubbish-and-recycling-2021-08-28-16-49-36-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 170070,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/volunteers-collecting-rubbish-and-recycling-RT7S964"
+        },
+        {
+            "filename": "volunteers-collecting-rubbish-and-recycling-2021-08-28-16-50-52-utc.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/voltee\/wp-content\/uploads\/sites\/54\/2021\/11\/volunteers-collecting-rubbish-and-recycling-2021-08-28-16-50-52-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 165540,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/volunteers-collecting-rubbish-and-recycling-LZ5SR8N"
+        },
+        {
+            "filename": "volunteers-collecting-rubbish-and-recycling-2021-08-28-16-49-38-utc.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/voltee\/wp-content\/uploads\/sites\/54\/2021\/11\/volunteers-collecting-rubbish-and-recycling-2021-08-28-16-49-38-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 232734,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/volunteers-collecting-rubbish-and-recycling-3RZYXCY"
+        },
+        {
+            "filename": "a-group-of-volunteers-are-cleaning-the-environment-2021-09-03-05-57-23-utc.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/voltee\/wp-content\/uploads\/sites\/54\/2021\/11\/a-group-of-volunteers-are-cleaning-the-environment-2021-09-03-05-57-23-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "service"
+                }
+            ],
+            "filesize": 181021,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/a-group-of-volunteers-are-cleaning-the-environment-B4Q6XJS"
+        },
+        {
+            "filename": "group-of-volunteer-forming-huddles-2021-08-28-22-11-23-utc.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/voltee\/wp-content\/uploads\/sites\/54\/2021\/11\/group-of-volunteer-forming-huddles-2021-08-28-22-11-23-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "service"
+                }
+            ],
+            "filesize": 231183,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/group-of-volunteer-forming-huddles-F4UX535"
+        },
+        {
+            "filename": "group-of-volunteer-planting-2021-08-28-17-20-48-utc.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/voltee\/wp-content\/uploads\/sites\/54\/2021\/11\/group-of-volunteer-planting-2021-08-28-17-20-48-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "service"
+                }
+            ],
+            "filesize": 238770,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/group-of-volunteer-planting-F3PW6AB"
+        },
+        {
+            "filename": "volunteer-cleaning-beach-2021-09-03-14-56-47-utc.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/voltee\/wp-content\/uploads\/sites\/54\/2021\/11\/volunteer-cleaning-beach-2021-09-03-14-56-47-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "service"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/member.json",
+                    "name": "Member"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "Faqs"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single-Blog"
+                }
+            ],
+            "filesize": 231694,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/volunteer-cleaning-beach-VAEPGU6"
+        },
+        {
+            "filename": "volunteers-2021-08-27-09-40-37-utc.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/voltee\/wp-content\/uploads\/sites\/54\/2021\/11\/volunteers-2021-08-27-09-40-37-utc-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "service"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 241022,
+            "dimensions": [
+                1200,
+                801
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/volunteers-USHVPS6"
+        },
+        {
+            "filename": "volunteers-cleaning-garbage-2021-09-02-02-33-21-utc.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/voltee\/wp-content\/uploads\/sites\/54\/2021\/11\/volunteers-cleaning-garbage-2021-09-02-02-33-21-utc-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "service"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 202836,
+            "dimensions": [
+                1200,
+                801
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/volunteers-cleaning-garbage-EDQP88T"
+        },
+        {
+            "filename": "young-volunteers-picking-up-garbage-in-bag-at-park-2021-08-27-09-25-46-utc.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/voltee\/wp-content\/uploads\/sites\/54\/2021\/11\/young-volunteers-picking-up-garbage-in-bag-at-park-2021-08-27-09-25-46-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "service"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single-Blog"
+                }
+            ],
+            "filesize": 208108,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-volunteers-picking-up-garbage-in-bag-at-park-PXECSYL"
+        },
+        {
+            "filename": "boats-on-biogradska-lake-2021-08-26-17-20-24-utc.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/voltee\/wp-content\/uploads\/sites\/54\/2021\/11\/boats-on-biogradska-lake-2021-08-26-17-20-24-utc-800x540.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/donation.json",
+                    "name": "Donation"
+                }
+            ],
+            "filesize": 225156,
+            "dimensions": [
+                1700,
+                1148
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/boats-on-biogradska-lake-FUNS4KG"
+        },
+        {
+            "filename": "group-of-volunteer-with-sprout-for-growing-2021-08-26-16-33-25-utc.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/voltee\/wp-content\/uploads\/sites\/54\/2021\/11\/group-of-volunteer-with-sprout-for-growing-2021-08-26-16-33-25-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 186875,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/group-of-volunteer-with-sprout-for-growing-P6S4VW3"
+        },
+        {
+            "filename": "l3.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/voltee\/wp-content\/uploads\/sites\/54\/2021\/11\/l3-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/donation.json",
+                    "name": "Donation"
+                }
+            ],
+            "filesize": 13999,
+            "dimensions": [
+                1019,
+                679
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/colorful-association-logo-2UHGFL"
+        },
+        {
+            "filename": "l1.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/voltee\/wp-content\/uploads\/sites\/54\/2021\/11\/l1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/donation.json",
+                    "name": "Donation"
+                }
+            ],
+            "filesize": 12906,
+            "dimensions": [
+                1019,
+                679
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/connected-community-logo-4XG9NQ"
+        },
+        {
+            "filename": "l2.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/voltee\/wp-content\/uploads\/sites\/54\/2021\/11\/l2-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/donation.json",
+                    "name": "Donation"
+                }
+            ],
+            "filesize": 11484,
+            "dimensions": [
+                1019,
+                679
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/society-colorful-logo-8EZAE2"
+        },
+        {
+            "filename": "l4.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/voltee\/wp-content\/uploads\/sites\/54\/2021\/11\/l4-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/donation.json",
+                    "name": "Donation"
+                }
+            ],
+            "filesize": 12505,
+            "dimensions": [
+                1019,
+                679
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/colorful-charity-logo-U6VZL5"
+        },
+        {
+            "filename": "bg-white.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/voltee\/wp-content\/uploads\/sites\/54\/2021\/11\/bg-white.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "service"
+                }
+            ],
+            "filesize": 4506,
+            "dimensions": [
+                570,
+                361
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "group-of-volunteer-planting-2021-08-28-17-20-0-utc.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/voltee\/wp-content\/uploads\/sites\/54\/2021\/11\/group-of-volunteer-planting-2021-08-28-17-20-0-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 211283,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/group-of-volunteer-planting-F3PW6AB"
+        },
+        {
+            "filename": "volunteer-2021-08-30-07-35-24-utc.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/voltee\/wp-content\/uploads\/sites\/54\/2021\/11\/volunteer-2021-08-30-07-35-24-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 135389,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/volunteer-WU4VPE6"
+        },
+        {
+            "filename": "group-of-volunteers-planting-tree-in-park-2021-08-26-22-49-09-utc.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/voltee\/wp-content\/uploads\/sites\/54\/2021\/11\/group-of-volunteers-planting-tree-in-park-2021-08-26-22-49-09-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 203125,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/group-of-volunteers-planting-tree-in-park-PMAMZVZ"
+        },
+        {
+            "filename": "portrait-of-volunteer-woman-collecting-rubbish-2021-08-28-17-23-13-utc.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/voltee\/wp-content\/uploads\/sites\/54\/2021\/11\/portrait-of-volunteer-woman-collecting-rubbish-2021-08-28-17-23-13-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 226620,
+            "dimensions": [
+                800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-volunteer-woman-collecting-rubbish-NFUYKV4"
+        },
+        {
+            "filename": "volunteers-using-technology-2021-08-28-17-22-12-utc.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/voltee\/wp-content\/uploads\/sites\/54\/2021\/11\/volunteers-using-technology-2021-08-28-17-22-12-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "Faqs"
+                }
+            ],
+            "filesize": 202003,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/volunteers-using-technology-H6DEV88"
+        },
+        {
+            "filename": "proud-environment-protection-volunteer-holding-gar-2021-09-04-16-18-44-utc.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/voltee\/wp-content\/uploads\/sites\/54\/2021\/11\/proud-environment-protection-volunteer-holding-gar-2021-09-04-16-18-44-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 207452,
+            "dimensions": [
+                800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/proud-environment-protection-volunteer-holding-gar-XGUBBRS"
+        },
+        {
+            "filename": "group-of-volunteer-having-fun-2021-08-28-22-14-28-utc.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/voltee\/wp-content\/uploads\/sites\/54\/2021\/11\/group-of-volunteer-having-fun-2021-08-28-22-14-28-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/member.json",
+                    "name": "Member"
+                }
+            ],
+            "filesize": 209379,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/group-of-volunteer-having-fun-3YE7ZUT"
+        },
+        {
+            "filename": "smiling-male-volunteer-holding-recycling-box-with-2021-09-03-04-18-24-utc.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/voltee\/wp-content\/uploads\/sites\/54\/2021\/11\/smiling-male-volunteer-holding-recycling-box-with-2021-09-03-04-18-24-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 167041,
+            "dimensions": [
+                801,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-male-volunteer-holding-recycling-box-with--5JWMR2J"
+        },
+        {
+            "filename": "female-volunteers-collecting-donations-2021-09-03-13-43-09-utc.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/voltee\/wp-content\/uploads\/sites\/54\/2021\/11\/female-volunteers-collecting-donations-2021-09-03-13-43-09-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/donation.json",
+                    "name": "Donation"
+                }
+            ],
+            "filesize": 218697,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/female-volunteers-collecting-donations-VR796BZ"
+        },
+        {
+            "filename": "superhero-children-2021-08-26-23-57-35-utc.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/voltee\/wp-content\/uploads\/sites\/54\/2021\/11\/superhero-children-2021-08-26-23-57-35-utc-800x603.jpg",
+            "templates": [
+                {
+                    "source": "templates\/donation.json",
+                    "name": "Donation"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 195738,
+            "dimensions": [
+                1200,
+                905
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/superhero-children-P4PR3CD"
+        },
+        {
+            "filename": "volunteers-collecting-rubbish-and-recycling-2021-08-28-116-50-52-utc.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/voltee\/wp-content\/uploads\/sites\/54\/2021\/11\/volunteers-collecting-rubbish-and-recycling-2021-08-28-116-50-52-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/member.json",
+                    "name": "Member"
+                }
+            ],
+            "filesize": 182812,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/volunteers-collecting-rubbish-and-recycling-LZ5SR8N"
+        },
+        {
+            "filename": "portrait-of-a-volunteer-senior-african-american-ma-2021-08-28-16-52-011-utc.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/voltee\/wp-content\/uploads\/sites\/54\/2021\/11\/portrait-of-a-volunteer-senior-african-american-ma-2021-08-28-16-52-011-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/member.json",
+                    "name": "Member"
+                }
+            ],
+            "filesize": 122041,
+            "dimensions": [
+                700,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-a-volunteer-senior-african-american-ma-D62Q5R7"
+        },
+        {
+            "filename": "portrait-of-volunteer-woman-collecting-rubbish-2021-08-28-17-23-13-1utc.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/voltee\/wp-content\/uploads\/sites\/54\/2021\/11\/portrait-of-volunteer-woman-collecting-rubbish-2021-08-28-17-23-13-1utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/member.json",
+                    "name": "Member"
+                }
+            ],
+            "filesize": 150586,
+            "dimensions": [
+                700,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-volunteer-woman-collecting-rubbish-NFUYKV4"
+        },
+        {
+            "filename": "female-in-environmental-protection-team-volunteer-2021-11-03-00-35-1utc.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/voltee\/wp-content\/uploads\/sites\/54\/2021\/11\/female-in-environmental-protection-team-volunteer-2021-11-03-00-35-1utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/member.json",
+                    "name": "Member"
+                }
+            ],
+            "filesize": 149705,
+            "dimensions": [
+                700,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/female-in-environmental-protection-team-volunteer--LQ4GFKH"
+        },
+        {
+            "filename": "attractive-smiling-volunteer-holding-new-in-hands-2021-09-03-141-11-26-utc.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/voltee\/wp-content\/uploads\/sites\/54\/2021\/11\/attractive-smiling-volunteer-holding-new-in-hands-2021-09-03-141-11-26-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/member.json",
+                    "name": "Member"
+                }
+            ],
+            "filesize": 106641,
+            "dimensions": [
+                700,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/attractive-smiling-volunteer-holding-new-in-hands-UFUDJ9D"
+        },
+        {
+            "filename": "proud-environment-protection-volunteer-holding-gar-2021-09-04-16-18-244-utc.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/voltee\/wp-content\/uploads\/sites\/54\/2021\/11\/proud-environment-protection-volunteer-holding-gar-2021-09-04-16-18-244-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/member.json",
+                    "name": "Member"
+                }
+            ],
+            "filesize": 122203,
+            "dimensions": [
+                700,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/proud-environment-protection-volunteer-holding-gar-XGUBBRS"
+        },
+        {
+            "filename": "smiling-male-volunteer-holding-recycling-box-with-2021-09-03-04-118-24-utc.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/voltee\/wp-content\/uploads\/sites\/54\/2021\/11\/smiling-male-volunteer-holding-recycling-box-with-2021-09-03-04-118-24-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/member.json",
+                    "name": "Member"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single-Blog"
+                }
+            ],
+            "filesize": 94159,
+            "dimensions": [
+                700,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-male-volunteer-holding-recycling-box-with--5JWMR2J"
+        },
+        {
+            "filename": "three-volunteers-packing-eatables-in-cardboard-box-2021-08-28-17-56-26-utc.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/voltee\/wp-content\/uploads\/sites\/54\/2021\/11\/three-volunteers-packing-eatables-in-cardboard-box-2021-08-28-17-56-26-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "Faqs"
+                }
+            ],
+            "filesize": 206761,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/three-volunteers-packing-eatables-in-cardboard-box-HDTAJM9"
+        },
+        {
+            "filename": "volunteer-collecting-plastic-garbage-2021-09-02-14-44-41-utc.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/voltee\/wp-content\/uploads\/sites\/54\/2021\/11\/volunteer-collecting-plastic-garbage-2021-09-02-14-44-41-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single-Blog"
+                }
+            ],
+            "filesize": 215999,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/volunteer-collecting-plastic-garbage-US2RQDG"
+        },
+        {
+            "filename": "group-of-volunteer-forming-huddles-2021-08-28-22-11-230-utc.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/voltee\/wp-content\/uploads\/sites\/54\/2021\/11\/group-of-volunteer-forming-huddles-2021-08-28-22-11-230-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 206772,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/group-of-volunteer-forming-huddles-F4UX535"
+        },
+        {
+            "filename": "Voltee-Logo.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/voltee\/wp-content\/uploads\/sites\/54\/2021\/11\/Voltee-Logo.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 10878,
+            "dimensions": [
+                612,
+                612
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

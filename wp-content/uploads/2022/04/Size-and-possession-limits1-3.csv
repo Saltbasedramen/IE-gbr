@@ -1,0 +1,140 @@
+﻿Marine Animal ID,Marine Animal Name,Size limit min (cm),Size limit max (cm),Weight limit (g),Combined possession limit,Special limits,Population ID,Species ID
+1,Cods and groupers (All),38,,,5,,1,3
+2,Barramundi cod,,,,No take,,1,3
+3,Camouflage grouper,50,70,,5,,1,3
+4,Flowery rockcod,50,70,,5,,1,3
+5,Greasy rockcod,38,100,,5,,1,3
+6,Maori rockcod,45,,,5,,1,3
+7,Potato rockcod,,,,No take,,1,3
+8,Queensland groper,,,,No take,,1,3
+9,Coral trout (All),38,,,7,,2,3
+10,Blue spotted coral trout (Chinese footballer),50,80,,7,,2,3
+11,Emperors (All),25,,,5,,2,3
+12,Redthroat emperor (sweetlip emperor),38,,,8,,3,3
+13,Long nose emperor,38,,,5,,3,3
+14,Spangled emperor,45,,,5,,3,3
+15,Fusiliers (All),,,,20,,4,3
+16,Parrotfishes (All),25,,,5,,5,3
+17,Surgeonfishes (All),25,,,5,,6,3
+18,Sweetlips (All),25,,,5,,7,3
+19,Tropical snappers and sea perches (All),25,,,5,,8,3
+20,Chinaman fish,,,,No take,,8,3
+21,Crimson snapper (small mouth nannygai),40,,,9,,8,3
+22,Saddletail snapper (large mouth nannygai),40,,,9,,8,3
+23,Flame snapper,38,,,5,,8,3
+24,Goldband snapper ,38,,,5,,8,3
+25,Sharptooth snapper,38,,,5,,8,3
+26,Green jobfish,38,,,5,,8,3
+27,Hussar,25,,,10,,8,3
+28,Rosy snapper (jobfish),38,,,8,,8,3
+29,Lavendar snapper (jobfish),38,,,8,,8,3
+30,Paddletail,,,,No take,,8,3
+31,Red bass,,,,No take,,8,3
+32,Red emperor,55,,,5,,8,3
+33,Ruby snapper,38,,,5,,8,3
+34,Smalltooth jobfish,38,,,5,,8,3
+35,Miscellaneous jobfish,38,,,5,,8,3
+36,Wrasse (All),30,,,5,,9,3
+37,Humphead Maori,,,,No take,,9,3
+38,Tuskfish,30,,,6,,9,3
+39,Australian bass (All),30,,,2,,9,1
+40,Barramundi,58,120,,5 per person / 10 per boat,,10,2
+41,Pikey,25,,,30,,11,8
+42,Tarwhine,25,,,30,,11,8
+43,Yellowfin,25,,,30,,11,8
+44,Moreton Bay (bay lobster),7.5,,,20,,12,8
+45,Smooth (Balmain),10.5,,,20,,12,8
+46,Cobia (black kingfish),75,,,2,,13,8
+47,Cod (estuary),38,120,,5,,14,8
+48,Blue swimmer,11.5,,,20,,15,8
+49,Mud,15,,,7 per person / 14 per boat,,15,8
+50,Spanner,10,,,20,,15,6
+51,Three-spot,10,,,20,,15,8
+52,Longfin,30,,,10,,16,8
+53,Pacific shortfin (south Pacific),30,,,10,,16,8
+54,Southern shortfin,30,,,10,,16,8
+55,Flathead (All),30,,,5,,17,8
+56,Dusky (mud flathead),40,75,,5,,17,8
+57,Garfish (All),,,,50,,18,8
+58,Green snail (All),,,280,20,,19,8
+59,Golden snapper (fingermark) (All),35,,,5,,20,8
+60,Grass emperor (sweetlip) (All),30,,,10,,21,8
+61,Barred (spotted grunter)(East coast),40,,,10,,22,8
+62,Barred (spotted grunter)(Gulf of Carpentaria),40,,,10 whole fish or 20 fillets,26cm min (fillet length),22,8
+63,Silver (small spotted grunter),30,,,10,,22,8
+64,Black (East coast),75,,,1 per person / 2 per boat,Fish must be kept whole while on a boat.,23,8
+65,Black (Gulf of Carpentaria),60,,,1 per person / 2 per boat,Fish must be kept whole while on a boat.,23,8
+66,Scaly (jewel fish),45,,,20,Fish must be kept whole while on a boat.,23,8
+67,Luderick (All),30,,,10,,24,8
+68,Grey,60,,,5,,25,8
+69,Spanish,75,,,3 per person / 6 per boat,,25,8
+70,School,50,,,10,,25,8
+71,Shark,50,,,10,,25,8
+72,Spotted,60,,,5,,25,8
+73,Mahi mahi (dolphin fish) (All),50,,,5,,26,8
+74,Mangrove jack (All),35,,,5,,27,8
+75,Diamondscale,30,,,20,,28,8
+76,Sea,30,,,20,,28,8
+77,"Mullet exceptions (all other mullet except diamondscale, sea and freshwater)",,,,50,,28,8
+78,Bivalve molluscs and gastropods (All),,,,30,Combined possession limit of 30 except in Moreton Bay where bivalve molluscs and gastropods (excluding pipi) are no take,29,8
+79,Clams (family Tridacnidae),,,,No take,,29,8
+80,Helmet shells,,,,No take,,29,8
+81,Trumpet shells,,,,No take,,29,8
+82,Oysters (All),,,,20,,30,8
+83,Blacklip pearl oyster,9,,,20,,30,8
+84,Goldlip pearl oyster,13,23,,20,,30,8
+85,Mulloway (All),75,,,2,Fish must be kept whole while on a boat.,31,8
+86,Pearl perch (All),38,,,4,,32,5
+87,Prawns (All),,,,10 litres per person / 20 litres per boat,,33,8
+88,Rays (All),,150,,1,Rays with a round body shape only need to comply with the 1.5m maximum size limit,34,8
+89,Guitarfish,,150,,1,,34,8
+90,Manta ray,,,,No take,,34,8
+91,Shovelnose ray,,150,,1,,34,8
+92,Sawfish (All),,,,No take,,35,8
+93,Sea cucumber (All),,,,5 per person / 10 per boat,waters north of latitude 20° south (near Bowen) and waters east of longitude 142°31’49’’ East,36,8
+94,Black teatfish,,,,No take,,36,8
+95,White teatfish,,,,No take,,36,8
+96,Sharks (All),,150,,1 per person / 2 per boat,,37,8
+97,Grey reef shark,,150,,1,,37,8
+98,Whitetip reef shark,,150,,1,,37,8
+99,White shark,,,,No take,,37,8
+100,Sand tiger shark,,,,No take,,37,8
+101,Speartooth shark,,,,No take,,37,8
+102,Hammerhead sharks,,,,No take,,37,8
+103,Snapper (All),35,,,,4 per person with no more than 1 over 70cm / 8 per boat with no more than 2 over 70cm (with 2 or more people on board),38,4
+104,Tailor (All),35,,,20,,39,8
+105,Teraglin (All),38,,,5,,40,8
+106,King (East coast),65,,,5,,41,8
+107,King (Gulf of Carpentaria),60,,,5,,41,8
+108,Blue (East coast),40,,,10,,41,8
+109,Blue (Gulf of Carpentaria),40,,,20,,41,8
+110,Trevally (All),,,,20,,42,8
+111,Amberjack,50,,,2,,42,8
+112,Samsonfish,50,,,2,,42,8
+113,Swallowtail dart,30,,,30,,42,8
+114,Giant queenfish,50,,,5,,42,8
+115,Yellowtail kingfish,60,,,2,,42,8
+116,Trochus (All),8,12.5,,30,,43,8
+117,Tropical rock lobster (All),,,,5 per person / 10 per boat in total of all species,,44,8
+118,Painted crayfish,,,,5 per person / 10 per boat in total of all species,"11.5cm tail min, 9cm carapace min",44,7
+119,Red Champagne Lobster,7.5,,,5 per person / 10 per boat in total of all species,,44,8
+120,Wahoo (All),75,,,2,,45,8
+121,Sand (summer),23,,,30,,46,8
+122,Goldenline ,,,,50,,46,8
+123,Northern,,,,10,,46,8
+124,Trumpeter (winter),,,,30,,46,8
+125,Dorab Wolf herring (All),,,,50,,47,8
+126,Beach worm,,,,,,48,8
+127,Cribb Island worms,,,,,,48,8
+128,Southern herring,,,,,,49,8
+129,Common hardyhead,,,,,,49,8
+130,Australian sardine,,,,,,49,8
+131,Australian anchovy,,,,,,49,8
+132,Silver biddy,,,,,,49,8
+133,Saltwater yabby,,,,,,49,8
+134,Soldier crab,,,,,,49,8
+135,Non-regulated worms,,,,,,49,8
+136,"Mullet   (excluding diamondscale,  sea and freshwater)",,,,50,,49,8
+137,Cuttlefish or squid  (excluding tiger squid),,,,50,,49,8
+138,Smooth-clawed rock crab,,,,,,49,8
+139,Yellowtail pike,,,,50,,49,8
